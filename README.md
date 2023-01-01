@@ -7,5 +7,14 @@
 </div>
 
 <h1>Meus dados pessoais</h1>
-  
-Esse aqui sou eu -->
+
+Esse aqui sou eu --> <img src="https://user-images.githubusercontent.com/107362025/210182915-91887db8-a578-4dc9-915f-96edf1114a54.jpg" width = "150px" />
+
+<div>
+
+<li><b>Eu nasci no dia:</b> 	&#127878;  02/05/1996 </li>
+<li><b> Sou da Cidade de:</b> &#127750; Guarulhos - SP<li/>
+
+</div>
+
+
