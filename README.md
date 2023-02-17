@@ -16,7 +16,7 @@ Esse aqui sou eu --> <img src="https://user-images.githubusercontent.com/1073620
 <li><b> Sou da Cidade de:</b> &#127750; Guarulhos - SP</li>
 <li><b> Meu nivel de escolaridade é:</b> &#127891; Ensino Superior
   
-    <h3>Quer saber mais sobre mim??>
+    <h3>Quer saber mais sobre mim??</h3>
     
     <p> acesse o meu portifólio logo abaixo :D </p>
     
