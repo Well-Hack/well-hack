@@ -14,10 +14,12 @@ Esse aqui sou eu --> <img src="https://user-images.githubusercontent.com/1073620
 
 <li><b>Eu nasci no dia:</b> 	&#127878;  02/05/1996 </li>
 <li><b> Sou da Cidade de:</b> &#127750; Guarulhos - SP</li>
-<li><b> Meu nivel de escolaridade é:</b> &#127891; Eu tenho duas faculdades</li>
-<p>Porém a minha primeira faculdade, não consegui resgatar o diploma devido a falta de estágio</p>
-<p>Os cursos que atualmente tenho estará a baixo, vamos ver?</p>
-<img src = url ("https://s2.glbimg.com/W4VVvqObeZT1GSCyrMRU1zPDqfw=/s.glbimg.com/jo/g1/f/original/2016/12/15/saudade_gif_teste_620.jpg")/>
-</div>
+<li><b> Meu nivel de escolaridade é:</b> &#127891; Ensino Superior
+  
+    <h3>Quer saber mais sobre mim??>
+    
+    <p> acesse o meu portifólio logo abaixo :D </p>
+    
+  https://well-hack.github.io/portfolio.github.io/Portf%C3%B3lio/index.html
 
 
