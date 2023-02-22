@@ -3,7 +3,7 @@
 <div>
 <p>Meu nome é Wellerson Ferreira e aqui vos apresento meu
   desenvolvimento na logica de programação e alguns
- projetos pessoais que vou colocando com o tempo ;)</p>
+ projetos pessoais e academicos que vou colocando com o tempo ;)</p>
 </div>
 
 <h1>Meus dados pessoais</h1>
