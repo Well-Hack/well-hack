@@ -1,24 +1,141 @@
-<h1><---------------Bem vindo ao meu GitHub!!-------------------></h1>
+# 👨‍💻 Wellerson Souza
 
-<div>
-<p>Meu nome é Wellerson Ferreira e aqui vos apresento meu
-  desenvolvimento na logica de programação e alguns
- projetos pessoais e academicos que vou colocando com o tempo ;)</p>
-</div>
+```bash
+> booting profile...
+> role: Service Desk Analyst
+> target: Red Team Operator
+> status: in progress...
+```
 
-<h1>Meus dados pessoais</h1>
+---
 
-Esse aqui sou eu --> <img src="https://user-images.githubusercontent.com/107362025/210182915-91887db8-a578-4dc9-915f-96edf1114a54.jpg" width = "150px" />
+## 🧾 Informações
 
-<div>
+```bash
+> user: Wellerson
+> birth_month (bin): 101
+> birth_year (hex): 0x7CC
+> location: unknown
+> marital_status: single
+```
 
-<li><b>Eu nasci no dia:</b> 	&#127878;  02/05/1996 </li>
-<li><b> Sou da Cidade de:</b> &#127750; Guarulhos - SP</li>
-<li><b> Meu nivel de escolaridade é:</b> &#127891; Ensino Superior Cursando </li>
- <h3> Quer saber mais sobre mim?? </h3>
- <p> acesse o meu portfólio logo abaixo :D </p>
-    
-  https://well-hack.github.io/portfolio.github.io/Portf%C3%B3lio/index.html
-</div>
+---
 
+## 🧠 Sobre mim
 
+Sou **Analista de Service Desk** em transição para a área de **Cybersecurity**, com foco em **Red Team**.
+
+Tenho experiência com suporte técnico e resolução de incidentes, e atualmente estou evoluindo minhas habilidades em **segurança ofensiva**, explorando técnicas reais de ataque e análise de vulnerabilidades.
+
+```bash
+> mindset:
+> "Para defender, é preciso entender como atacar."
+```
+
+---
+
+## 🎯 Objetivo
+
+Atuar como **Red Team**, identificando falhas de segurança, explorando vulnerabilidades e contribuindo para o fortalecimento de ambientes corporativos.
+
+---
+
+## 🚀 Projetos
+
+### 🔓 Medusa Brute Force Attack (SMB)
+
+```bash
+> target: Metasploitable 2
+> service: SMB (445)
+> tool: Medusa
+> attack: brute force
+```
+
+Simulação de ataque de força bruta utilizando **Medusa** contra serviço SMB em ambiente controlado.
+
+📌 O projeto inclui:
+
+* Enumeração com Nmap
+* Ataque com wordlists
+* Validação de credenciais
+* Análise de vulnerabilidade
+
+🔗 Acesse:
+👉 https://github.com/Well-Hack/Medusa-attack-brute-force
+
+---
+
+## 🛠️ Ferramentas & Tecnologias
+
+```bash
+# Reconhecimento & Enumeração
+- Nmap
+- theHarvester
+- Shodan
+- Maltego
+- Sn1per
+
+# Análise de Rede
+- Wireshark
+
+# Exploração & Ataques
+- Medusa
+- Gobuster
+
+# Ambiente & Sistemas
+- Kali Linux
+- Linux
+
+# Programação
+- Python
+```
+
+---
+
+## 🔍 Áreas de Estudo
+
+```bash
+[+] Pentest (Web & Network)
+[+] Enumeração e Reconhecimento
+[+] Ataques de força bruta
+[+] Exploração de serviços
+[+] Segurança de redes
+```
+
+---
+
+## 💼 Experiência Atual
+
+```bash
+> role: Service Desk Analyst
+> skills:
+   - troubleshooting
+   - suporte ao usuário
+   - análise de incidentes
+   - resolução de problemas
+```
+
+Essa experiência fortalece minha base em **infraestrutura, redes e sistemas**, essenciais para atuar com segurança ofensiva.
+
+---
+
+## 📈 Evolução Contínua
+
+```bash
+> learning mode: ON
+> adapting...
+> improving...
+```
+
+Estou constantemente estudando e desenvolvendo novos projetos práticos para evoluir na área de **Cybersecurity**.
+
+---
+
+## ⚠️ Aviso
+
+```bash
+> All activities performed in controlled environments.
+> Unauthorized testing is illegal.
+```
+
+---
