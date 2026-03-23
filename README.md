@@ -13,8 +13,8 @@
 
 ```bash
 > user: Wellerson
-> birth_month (bin): 101
-> birth_year (hex): 0x7CC
+> birth_month: 101
+> birth_year: 0x7CC
 > location: unknown
 > marital_status: single
 ```
@@ -113,6 +113,7 @@ Simulação de ataque de força bruta utilizando **Medusa** contra serviço SMB 
    - suporte ao usuário
    - análise de incidentes
    - resolução de problemas
+   - Utilização de ferramentas Jira, powerShell, Remote Desktop, Active Directory
 ```
 
 Essa experiência fortalece minha base em **infraestrutura, redes e sistemas**, essenciais para atuar com segurança ofensiva.
