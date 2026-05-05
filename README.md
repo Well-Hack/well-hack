@@ -81,6 +81,7 @@ Simulação de ataque de força bruta utilizando **Medusa** contra serviço SMB 
 # Exploração & Ataques
 - Medusa
 - Gobuster
+- John the ripper
 
 # Ambiente & Sistemas
 - Kali Linux
