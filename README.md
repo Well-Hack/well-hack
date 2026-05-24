@@ -145,11 +145,11 @@ Estou constantemente estudando e desenvolvendo novos projetos práticos para evo
 <!-- SEÇÃO DE BADGES E CERTIFICAÇÕES -->
 <div align="center">
   
-  ### 🛡️ Cyber Security Labs & Certifications
+  ### 🛡️ Perfil no Tryhackme
   
   <!-- Badge do TryHackMe usando Shields.io (Funciona sempre) -->
   <a href="https://tryhackme.com/p/Well_Hack" target="_blank">
-    <img src="https://img.shields.io/badge/TryHackMe-Well__Hack-0073B1?style=for-the-badge&logo=tryhackme&logoColor=CC0000&color=212c42" alt="TryHackMe Profile" />
+    <img src="[https://img.shields.io/badge/TryHackMe-Well__Hack-0073B1?style=for-the-badge&logo=tryhackme&logoColor=CC0000&color=212c42](https://tryhackme.com/p/Lonew0lf6031)" alt="TryHackMe Profile" />
   </a>
 
   <br/><br/>
