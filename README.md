@@ -149,8 +149,10 @@ Estou constantemente estudando e desenvolvendo novos projetos práticos para evo
   
   <!-- Plataforma TryHackMe -->
   <a href="https://tryhackme.com/p/Well_Hack" target="_blank">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/Well_Hack.png" alt="TryHackMe Profile" height="50" />
+    <img src="https://tryhackme-badges.s3.amazonaws.com/Well_Hack.png" alt="TryHackMe Profile" height="60" />
   </a>
 
   <br/><br/>
-  <!-- --------------------------------- -->
+
+</div>
+<!-- --------------------------------- -->
